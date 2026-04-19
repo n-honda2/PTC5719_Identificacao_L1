@@ -1,0 +1,10 @@
+# MATLAB e Simulink específicos
+slprj/              # Arquivos de simulação do Simulink (muito importante!)
+*.asv               # Autosave do editor
+*.slxc              # Cache do Simulink
+*.mex* # Binários compilados (C/C++ mex)
+*.log               # Logs de erro (como os de LaTeX que você já viu)
+output/             # Se você salvar seus resultados/gráficos em uma pasta específica
+/slprj/
+
+*.slxc
